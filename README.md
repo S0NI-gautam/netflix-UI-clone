@@ -26,16 +26,13 @@ Google Fonts: Utilizes "Noto Sans" and "Martel Sans" for consistent typography.
 # 📂 Project Structure
 Plaintext
 
-.
+```
 ├── index.html      # Main project structure and content
-
 ├── index.css       # Custom styling and layout rules
-
 ├── logo.svg        # Netflix logo (required asset)
-
 ├── arrow.svg       # UI icon (required asset)
-
 └── ...             # Other SVG icons and assets
+```
 
 
 # 📝 JavaScript Logic
